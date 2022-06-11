@@ -21,3 +21,13 @@ MSE is used to check how close estimates or forecasts are to actual values. Lowe
 
 ### Gradient Descent 
 Gradient Descent is an optimization algorithm for finding a local minimum of a differentiable function. Gradient descent is simply used in machine learning to find the values of a function's parameters (coefficients) that minimize a cost function as far as possible.
+
+# Pros/Cons Multiple Linear Regression
+
+### Pros
+- Easy to implement, theory is not complex, low computational power compared to other algorithms.
+- Perfect for linearly seperable datasets.
+- Easy to interpret coefficients for analysis.
+
+### Cons
+- Unlikely in the real world to have perfectly linearly separable datasets, model often underfits in real-word scenarios or is outperformed by other ML and Deep Learning algorithms.
