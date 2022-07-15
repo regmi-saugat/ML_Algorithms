@@ -6,3 +6,5 @@ In this repository, I will share Machine Learning algorithms using Python from s
 [Logistic Regression](https://github.com/regmi-saugat/ML-Algorithms/tree/main/Logistic%20Regression)
 
 [Naive Bayes](https://github.com/regmi-saugat/ML-Algorithms/tree/main/Naive%20Bayes)
+
+[Perceptron](https://github.com/regmi-saugat/ML_Algorithms/tree/main/Perceptron)
